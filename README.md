@@ -117,4 +117,3 @@ Select specific years, industries, visa types, and degrees to customize insights
 
 Visual Insights:
 Bar charts, pie charts, line graphs, and maps.
-# MRP
